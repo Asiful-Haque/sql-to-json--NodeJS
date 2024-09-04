@@ -1,0 +1,1694 @@
+[
+  {
+    "id": 1,
+    "question": "He _________ in India",
+    "option1": "live",
+    "option2": "lives",
+    "option3": "is living",
+    "option4": "living",
+    "answer": "lives"
+  },
+  {
+    "id": 2,
+    "question": "After __________ smoking, they let the cigarette fall on the wood floor",
+    "option1": "finished",
+    "option2": "finishing",
+    "option3": "had finished",
+    "option4": "finishes",
+    "answer": "finishing"
+  },
+  {
+    "id": 3,
+    "question": "The lion sprang __________ the buffaloes",
+    "option1": "at",
+    "option2": "in",
+    "option3": "upon",
+    "option4": "on",
+    "answer": "upon"
+  },
+  {
+    "id": 4,
+    "question": "My brother is devoted __________ religion",
+    "option1": "with",
+    "option2": "to",
+    "option3": "at",
+    "option4": "in",
+    "answer": "to"
+  },
+  {
+    "id": 5,
+    "question": "My father was angry __________ my failure",
+    "option1": "in",
+    "option2": "on",
+    "option3": "with",
+    "option4": "at",
+    "answer": "at"
+  },
+  {
+    "id": 6,
+    "question": "________ you wake me up so early on a Sunday?",
+    "option1": "could",
+    "option2": "dare",
+    "option3": "must",
+    "option4": "will",
+    "answer": "could"
+  },
+  {
+    "id": 7,
+    "question": "There is quite tenuous evidence ______ it",
+    "option1": "with",
+    "option2": "at",
+    "option3": "for",
+    "option4": "must",
+    "answer": "for"
+  },
+  {
+    "id": 8,
+    "question": "That was _______ movie I have ever seen",
+    "option1": "worse",
+    "option2": "the worst",
+    "option3": "most worst",
+    "option4": "bad",
+    "answer": "the worst"
+  },
+  {
+    "id": 9,
+    "question": "He has many friends, but _____ are good ones",
+    "option1": "a few",
+    "option2": "few",
+    "option3": "the few",
+    "option4": "the some",
+    "answer": "few"
+  },
+  {
+    "id": 10,
+    "question": "I am very much ________ to meet you",
+    "option1": "delight",
+    "option2": "to delight",
+    "option3": "delighting",
+    "option4": "delighted",
+    "answer": "delighted"
+  },
+  {
+    "id": 11,
+    "question": "If we go to the park, ______ you like to come too?",
+    "option1": "shall",
+    "option2": "are",
+    "option3": "would",
+    "option4": "am",
+    "answer": "would"
+  },
+  {
+    "id": 12,
+    "question": "John said he _______ to play at home",
+    "option1": "would prefer",
+    "option2": "prefer",
+    "option3": "will prefer",
+    "option4": "had prefered",
+    "answer": "would prefer"
+  },
+  {
+    "id": 13,
+    "question": "The man __________ down the road is my brother",
+    "option1": "hurry",
+    "option2": "hurried",
+    "option3": "to hurry",
+    "option4": "hurrying",
+    "answer": "hurrying"
+  },
+  {
+    "id": 14,
+    "question": "My younger sister constantly misbehaves and is always causing ______.",
+    "option1": "hostility",
+    "option2": "violence",
+    "option3": "mischief",
+    "option4": "courtesy",
+    "answer": "mischief"
+  },
+  {
+    "id": 15,
+    "question": "He tends to _______ to any suggestion I make in meetings",
+    "option1": "differ",
+    "option2": "agree",
+    "option3": "accept",
+    "option4": "cooperate",
+    "answer": "cooperate"
+  },
+  {
+    "id": 16,
+    "question": "It is certain that human beings ______ latent power of which they are only vaguely aware",
+    "option1": "exhibit",
+    "option2": "possess",
+    "option3": "impose",
+    "option4": "knowledge",
+    "answer": "possess"
+  },
+  {
+    "id": 17,
+    "question": "It is already 5 o'clock.Can you _____ time to catch the bus?",
+    "option1": "have it in",
+    "option2": "have enough",
+    "option3": "make it in",
+    "option4": "made it",
+    "answer": "make it in"
+  },
+  {
+    "id": 18,
+    "question": "The problem _______ a lot of thought",
+    "option1": "calls for",
+    "option2": "comes across",
+    "option3": "calls on",
+    "option4": "comes into",
+    "answer": "calls for"
+  },
+  {
+    "id": 19,
+    "question": "I promise to ________ you in all circumstances",
+    "option1": "stand up to",
+    "option2": "stand with",
+    "option3": "stand off",
+    "option4": "stand by",
+    "answer": "stand with"
+  },
+  {
+    "id": 20,
+    "question": "He has _________ his mind to join the army",
+    "option1": "make by",
+    "option2": "made with",
+    "option3": "made by",
+    "option4": "made up",
+    "answer": "made up"
+  },
+  {
+    "id": 21,
+    "question": "The girl ran _______ the field when she saw her father after long time",
+    "option1": "in",
+    "option2": "across",
+    "option3": "on",
+    "option4": "along",
+    "answer": "across"
+  },
+  {
+    "id": 22,
+    "question": "I _________ a single word he says",
+    "option1": "not believe",
+    "option2": "don't believe",
+    "option3": "am not believing",
+    "option4": "will not believe",
+    "answer": "don't believe"
+  },
+  {
+    "id": 23,
+    "question": "The colour of the walls in my room has faded _________",
+    "option1": "in",
+    "option2": "with",
+    "option3": "away",
+    "option4": "on",
+    "answer": "away"
+  },
+  {
+    "id": 24,
+    "question": "It's difficult ______ reconcile such different points of view",
+    "option1": "with",
+    "option2": "to",
+    "option3": "in",
+    "option4": "on",
+    "answer": "to"
+  },
+  {
+    "id": 25,
+    "question": "The agenda for the meeting is _______ the notice",
+    "option1": "forwarded in",
+    "option2": "subscribed to",
+    "option3": "enclosed with",
+    "option4": "delivered as",
+    "answer": "enclosed with"
+  },
+  {
+    "id": 26,
+    "question": "Macbeth's desire _____ power brought about his downfall",
+    "option1": "in",
+    "option2": "for",
+    "option3": "with",
+    "option4": "as",
+    "answer": "for"
+  },
+  {
+    "id": 27,
+    "question": "I have brought some books _______ you to examine",
+    "option1": "to",
+    "option2": "for",
+    "option3": "with",
+    "option4": "over",
+    "answer": "over"
+  },
+  {
+    "id": 28,
+    "question": "The speaker did not properly space out his speech, but went on _______ one point only",
+    "option1": "stressing",
+    "option2": "avoiding",
+    "option3": "devoting",
+    "option4": "decrying",
+    "answer": "stressing"
+  },
+  {
+    "id": 29,
+    "question": "He decided to _______ his degree examination in order to get a higher score.",
+    "option1": "redo",
+    "option2": "reappear",
+    "option3": "rewrite",
+    "option4": "remake",
+    "answer": "rewrite"
+  },
+  {
+    "id": 30,
+    "question": "Army _________ troubled places as curfew remained in force",
+    "option1": "moving",
+    "option2": "walking",
+    "option3": "patrolling",
+    "option4": "running",
+    "answer": "patrolling"
+  },
+  {
+    "id": 31,
+    "question": "He wore multiple bracelets on _______ hand",
+    "option1": "every",
+    "option2": "each",
+    "option3": "either",
+    "option4": "neither",
+    "answer": "each"
+  },
+  {
+    "id": 32,
+    "question": "The smoke went ________ the chimney.",
+    "option1": "by",
+    "option2": "in",
+    "option3": "up",
+    "option4": "on",
+    "answer": "up"
+  },
+  {
+    "id": 33,
+    "question": "In the test, we will _________ your work and then give you detailed feedback",
+    "option1": "assess",
+    "option2": "judge",
+    "option3": "measure",
+    "option4": "check",
+    "answer": "assess"
+  },
+  {
+    "id": 34,
+    "question": "A Computers is hard to repair as there may be hundreds of different ______",
+    "option1": "parts",
+    "option2": "objects",
+    "option3": "components",
+    "option4": "materials",
+    "answer": "components"
+  },
+  {
+    "id": 35,
+    "question": "Water is made up of two _______ , namely oxygen and hydrogen",
+    "option1": "section",
+    "option2": "aspects",
+    "option3": "solutions",
+    "option4": "elements",
+    "answer": "elements"
+  },
+  {
+    "id": 36,
+    "question": "Although he had no __________ injuries, doctors found that he was suffering from internal bleeding",
+    "option1": "outside",
+    "option2": "external",
+    "option3": "outlying",
+    "option4": "exterior",
+    "answer": "external"
+  },
+  {
+    "id": 37,
+    "question": "A speed limit is the _________ legal speed that you can travel on the road",
+    "option1": "highest",
+    "option2": "biggest",
+    "option3": "maximum",
+    "option4": "longest",
+    "answer": "maximum"
+  },
+  {
+    "id": 38,
+    "question": "I would really _________ if you could help me out",
+    "option1": "respect",
+    "option2": "value",
+    "option3": "appreciate",
+    "option4": "regard",
+    "answer": "appreciate"
+  },
+  {
+    "id": 39,
+    "question": "What was the main ________ behind london bombings",
+    "option1": "aim",
+    "option2": "motive",
+    "option3": "objective",
+    "option4": "purpose",
+    "answer": "motive"
+  },
+  {
+    "id": 40,
+    "question": "Health ________ labels have adorned cigarette packages since 1966 in USA",
+    "option1": "information",
+    "option2": "note",
+    "option3": "message",
+    "option4": "warning",
+    "answer": "warning"
+  },
+  {
+    "id": 41,
+    "question": "A system is _______ if it is easy for citizens to access and understand",
+    "option1": "transparent",
+    "option2": "lucid",
+    "option3": "clear",
+    "option4": "translucent",
+    "answer": "transparent"
+  },
+  {
+    "id": 42,
+    "question": "The President's speech was so ___________ that many people were persuaded to accept the need for change",
+    "option1": "expressive",
+    "option2": "articulate",
+    "option3": "eloquent",
+    "option4": "calm",
+    "answer": "eloquent"
+  },
+  {
+    "id": 43,
+    "question": "The powers of the party are ___________ in several places in the Constitution",
+    "option1": "numbered",
+    "option2": "named",
+    "option3": "enumerated",
+    "option4": "counted",
+    "answer": "enumerated"
+  },
+  {
+    "id": 44,
+    "question": "Please _________ two colour passport photographs to the application form",
+    "option1": "fix",
+    "option2": "link",
+    "option3": "hook up",
+    "option4": "attach",
+    "answer": "attach"
+  },
+  {
+    "id": 45,
+    "question": "If everything goes according to ________, work will be complete in December",
+    "option1": "timing",
+    "option2": "time",
+    "option3": "schedule",
+    "option4": "lineup",
+    "answer": "schedule"
+  },
+  {
+    "id": 46,
+    "question": "Four independent ________ testified to seeing him at the scene of the crime",
+    "option1": "person",
+    "option2": "witnesses",
+    "option3": "spectator",
+    "option4": "attestant",
+    "answer": "witnesses"
+  },
+  {
+    "id": 47,
+    "question": "Could I have a ___ of chocolate?",
+    "option1": "block",
+    "option2": "bar",
+    "option3": "slice",
+    "option4": "piece",
+    "answer": "bar"
+  },
+  {
+    "id": 48,
+    "question": "There is something wonderful _______ him",
+    "option1": "of",
+    "option2": "about",
+    "option3": "for",
+    "option4": "inside",
+    "answer": "about"
+  },
+  {
+    "id": 49,
+    "question": "Increasingly, post-graduate students are asked to become teaching assistants in order to __________ undergraduates",
+    "option1": "instruct",
+    "option2": "drill",
+    "option3": "inform",
+    "option4": "teach",
+    "answer": "instruct"
+  },
+  {
+    "id": 50,
+    "question": "My husband asked him if he'd ever been convicted ________ a crime",
+    "option1": "with",
+    "option2": "of",
+    "option3": "by",
+    "option4": "on",
+    "answer": "of"
+  },
+  {
+    "id": 51,
+    "question": "To err is _________ to forgive is divine",
+    "option1": "humanity",
+    "option2": "mankind",
+    "option3": "human",
+    "option4": "inhumanity",
+    "answer": "human"
+  },
+  {
+    "id": 52,
+    "question": "She lived _______ juice for ten days to slim down for the fashion show",
+    "option1": "with",
+    "option2": "by",
+    "option3": "in",
+    "option4": "off",
+    "answer": "off"
+  },
+  {
+    "id": 53,
+    "question": "I'm sorry __________ you can't come to the party",
+    "option1": "that",
+    "option2": "with",
+    "option3": "for",
+    "option4": "to",
+    "answer": "that"
+  },
+  {
+    "id": 54,
+    "question": "Make only a few rules for students that emphasize ____________ behaviour",
+    "option1": "correct",
+    "option2": "fitting",
+    "option3": "appropriate",
+    "option4": "useful",
+    "answer": "appropriate"
+  },
+  {
+    "id": 55,
+    "question": "I usually have bread and butter for breakfast, but yesterday I _______ pasta",
+    "option1": "have been",
+    "option2": "had been",
+    "option3": "have",
+    "option4": "had",
+    "answer": "had"
+  },
+  {
+    "id": 56,
+    "question": "If she is not interested, we will __________ the proposal",
+    "option1": "vaccant",
+    "option2": "abandon",
+    "option3": "impulse",
+    "option4": "remove",
+    "answer": "abandon"
+  },
+  {
+    "id": 57,
+    "question": "The situation in the factory _________ no signs of improvement, as the ongoing strike entered second days",
+    "option1": "displayed",
+    "option2": "exposed",
+    "option3": "showed",
+    "option4": "view",
+    "answer": "showed"
+  },
+  {
+    "id": 58,
+    "question": "He give a lecture in which he pointed _____ an error in the book",
+    "option1": "by",
+    "option2": "with",
+    "option3": "out",
+    "option4": "in",
+    "answer": "out"
+  },
+  {
+    "id": 59,
+    "question": "The police forces have launched an operation to _______ out the kidnapped person",
+    "option1": "track",
+    "option2": "touch",
+    "option3": "nib",
+    "option4": "trace",
+    "answer": "trace"
+  },
+  {
+    "id": 60,
+    "question": "He _______ as a teacher before he became a lecturer",
+    "option1": "have worked",
+    "option2": "had worked",
+    "option3": "was worked",
+    "option4": "have been worked",
+    "answer": "had worked"
+  },
+  {
+    "id": 61,
+    "question": "Has the driver drunk when he ______ at the wheel?",
+    "option1": "is",
+    "option2": "have",
+    "option3": "had",
+    "option4": "was",
+    "answer": "is"
+  },
+  {
+    "id": 62,
+    "question": "When the doorbell rang, I was ________ my bath",
+    "option1": "in",
+    "option2": "have",
+    "option3": "having",
+    "option4": "with",
+    "answer": "having"
+  },
+  {
+    "id": 63,
+    "question": "The police came after the thieves __________",
+    "option1": "was left",
+    "option2": "have left",
+    "option3": "is left",
+    "option4": "had left",
+    "answer": "had left"
+  },
+  {
+    "id": 64,
+    "question": "I knew him by his likeness _______ to his father",
+    "option1": "with",
+    "option2": "to",
+    "option3": "by",
+    "option4": "on",
+    "answer": "to"
+  },
+  {
+    "id": 65,
+    "question": "He instilled that idea ______ my mind",
+    "option1": "in",
+    "option2": "to",
+    "option3": "into",
+    "option4": "on",
+    "answer": "into"
+  },
+  {
+    "id": 66,
+    "question": "Some people __________ to the officer against him about his mis-deeds",
+    "option1": "asked",
+    "option2": "complained",
+    "option3": "question",
+    "option4": "informed",
+    "answer": "complained"
+  },
+  {
+    "id": 67,
+    "question": "Cholera has broken _________ in their town",
+    "option1": "into",
+    "option2": "in",
+    "option3": "out",
+    "option4": "by",
+    "answer": "out"
+  },
+  {
+    "id": 68,
+    "question": "United we _______, divided we fall",
+    "option1": "gather",
+    "option2": "combine",
+    "option3": "stand",
+    "option4": "strong",
+    "answer": "stand"
+  },
+  {
+    "id": 69,
+    "question": "You should _______ down your expenditure",
+    "option1": "low",
+    "option2": "reduce",
+    "option3": "deduce",
+    "option4": "cut",
+    "answer": "cut"
+  },
+  {
+    "id": 70,
+    "question": "He said he would pick me _______ at the hotel lobby in the evening",
+    "option1": "in",
+    "option2": "up",
+    "option3": "with",
+    "option4": "to",
+    "answer": "up"
+  },
+  {
+    "id": 71,
+    "question": "I do not like to intrude _______ your privacy",
+    "option1": "to",
+    "option2": "at",
+    "option3": "into",
+    "option4": "upon",
+    "answer": "upon"
+  },
+  {
+    "id": 72,
+    "question": "I have too many problems to deal ________",
+    "option1": "in",
+    "option2": "by",
+    "option3": "with",
+    "option4": "within",
+    "answer": "with"
+  },
+  {
+    "id": 73,
+    "question": "When are mangoes ______ enough to eat?",
+    "option1": "mature",
+    "option2": "ready",
+    "option3": "full",
+    "option4": "ripe",
+    "answer": "ripe"
+  },
+  {
+    "id": 74,
+    "question": "A plane was forced to make an emergency landing after it was hit by a ______ of birds",
+    "option1": "group",
+    "option2": "flock",
+    "option3": "assembly",
+    "option4": "swarm",
+    "answer": "flock"
+  },
+  {
+    "id": 75,
+    "question": "It is 20 years since i ______ him",
+    "option1": "see",
+    "option2": "saw",
+    "option3": "have seen",
+    "option4": "had been seen",
+    "answer": "saw"
+  },
+  {
+    "id": 76,
+    "question": "The disciplinary committee has recommended a life ban on her _______ disciplinary ground",
+    "option1": "for",
+    "option2": "on",
+    "option3": "at",
+    "option4": "with",
+    "answer": "on"
+  },
+  {
+    "id": 77,
+    "question": "Naren was debarred _______ appearing in the examination",
+    "option1": "of",
+    "option2": "from",
+    "option3": "to",
+    "option4": "with",
+    "answer": "from"
+  },
+  {
+    "id": 78,
+    "question": "He is superior _______ me",
+    "option1": "from",
+    "option2": "to",
+    "option3": "by",
+    "option4": "in",
+    "answer": "to"
+  },
+  {
+    "id": 79,
+    "question": "The old man may not live _______ the winter",
+    "option1": "in",
+    "option2": "through",
+    "option3": "upto",
+    "option4": "by",
+    "answer": "through"
+  },
+  {
+    "id": 80,
+    "question": "When the morning ________ , the murder was discovered",
+    "option1": "came",
+    "option2": "happened",
+    "option3": "arrived",
+    "option4": "occurred",
+    "answer": "came"
+  },
+  {
+    "id": 81,
+    "question": "The smell of the Sea called ____ memories of her childhood",
+    "option1": "on",
+    "option2": "back",
+    "option3": "up",
+    "option4": "for",
+    "answer": "back"
+  },
+  {
+    "id": 82,
+    "question": "Eggs are sold by ________ dozen",
+    "option1": "the",
+    "option2": "an",
+    "option3": "a",
+    "option4": "None of the above",
+    "answer": "the"
+  },
+  {
+    "id": 83,
+    "question": "Their conversion was carried ________ whispers.",
+    "option1": "in",
+    "option2": "with",
+    "option3": "for",
+    "option4": "on",
+    "answer": "in"
+  },
+  {
+    "id": 84,
+    "question": "They _________ to open a new shop here shortly",
+    "option1": "went",
+    "option2": "go",
+    "option3": "are going",
+    "option4": "will open",
+    "answer": "are going"
+  },
+  {
+    "id": 85,
+    "question": "She did the job without ______ enthusiasm",
+    "option1": "much",
+    "option2": "all",
+    "option3": "many",
+    "option4": "little",
+    "answer": "much"
+  },
+  {
+    "id": 86,
+    "question": "There is nothing that _________ of us can do to help",
+    "option1": "every",
+    "option2": "any",
+    "option3": "half",
+    "option4": "none",
+    "answer": "any"
+  },
+  {
+    "id": 87,
+    "question": "No sooner did the train _______ at the platform than the passengers rushed towards it",
+    "option1": "arrive",
+    "option2": "arrived",
+    "option3": "will arrive",
+    "option4": "had arrives",
+    "answer": "arrive"
+  },
+  {
+    "id": 88,
+    "question": "Much ________ since they were here last",
+    "option1": "has happened",
+    "option2": "was happened",
+    "option3": "would happen",
+    "option4": "have happening",
+    "answer": "has happened"
+  },
+  {
+    "id": 89,
+    "question": "She _______ the best apples from the basket",
+    "option1": "choose",
+    "option2": "chose",
+    "option3": "was chosen",
+    "option4": "choosing",
+    "answer": "chose"
+  },
+  {
+    "id": 90,
+    "question": "The prisoner was ________ to death",
+    "option1": "hung",
+    "option2": "hanging",
+    "option3": "hanged",
+    "option4": "hunged",
+    "answer": "hanged"
+  },
+  {
+    "id": 91,
+    "question": "Either you or he _________ mistaken",
+    "option1": "is",
+    "option2": "are",
+    "option3": "has",
+    "option4": "of",
+    "answer": "is"
+  },
+  {
+    "id": 92,
+    "question": "Abstain ____________ evil and do good",
+    "option1": "for",
+    "option2": "from",
+    "option3": "off",
+    "option4": "of",
+    "answer": "from"
+  },
+  {
+    "id": 93,
+    "question": "Neither of the answers __________ correct",
+    "option1": "be",
+    "option2": "is",
+    "option3": "were",
+    "option4": "are",
+    "answer": "are"
+  },
+  {
+    "id": 94,
+    "question": "I shall look _________ the matter",
+    "option1": "in",
+    "option2": "about",
+    "option3": "into",
+    "option4": "after",
+    "answer": "into"
+  },
+  {
+    "id": 95,
+    "question": "He is blind _________ one eye",
+    "option1": "in",
+    "option2": "of",
+    "option3": "to",
+    "option4": "with",
+    "answer": "of"
+  },
+  {
+    "id": 96,
+    "question": "He is blind _________ to his defects",
+    "option1": "to",
+    "option2": "of",
+    "option3": "from",
+    "option4": "about",
+    "answer": "about"
+  },
+  {
+    "id": 97,
+    "question": "My friend willingly complied _________ my request",
+    "option1": "of",
+    "option2": "to",
+    "option3": "from",
+    "option4": "with",
+    "answer": "with"
+  },
+  {
+    "id": 98,
+    "question": "He jumped _________ my offer",
+    "option1": "at",
+    "option2": "on",
+    "option3": "to",
+    "option4": "over",
+    "answer": "at"
+  },
+  {
+    "id": 99,
+    "question": "He hastily jumped _________ the conclusion that I was to blame for all his losses",
+    "option1": "at",
+    "option2": "on",
+    "option3": "to",
+    "option4": "over",
+    "answer": "at"
+  },
+  {
+    "id": 100,
+    "question": "Only _______ of these apples are good",
+    "option1": "many",
+    "option2": "every",
+    "option3": "a few",
+    "option4": "a little",
+    "answer": "a few"
+  },
+  {
+    "id": 101,
+    "question": "He gave me _______ thousand-rupee note",
+    "option1": "the",
+    "option2": "an",
+    "option3": "a",
+    "option4": "few",
+    "answer": "a"
+  },
+  {
+    "id": 102,
+    "question": "I bought this book _________ fifty rupees",
+    "option1": "at",
+    "option2": "for",
+    "option3": "on",
+    "option4": "with",
+    "answer": "for"
+  },
+  {
+    "id": 103,
+    "question": "I enjoyed reading ________ book you gave me",
+    "option1": "a",
+    "option2": "any",
+    "option3": "the",
+    "option4": "some",
+    "answer": "the"
+  },
+  {
+    "id": 104,
+    "question": "Rajesh is _________ better of the two for this job",
+    "option1": "a",
+    "option2": "most",
+    "option3": "the",
+    "option4": "more",
+    "answer": "the"
+  },
+  {
+    "id": 105,
+    "question": "I don't have _______ money with me",
+    "option1": "many",
+    "option2": "a few",
+    "option3": "little",
+    "option4": "much",
+    "answer": "much"
+  },
+  {
+    "id": 106,
+    "question": "I understood ___________ of what he said",
+    "option1": "few",
+    "option2": "little",
+    "option3": "any",
+    "option4": "many",
+    "answer": "little"
+  },
+  {
+    "id": 107,
+    "question": "There isn't _________ truth in this statement",
+    "option1": "some",
+    "option2": "many",
+    "option3": "most",
+    "option4": "any",
+    "answer": "any"
+  },
+  {
+    "id": 108,
+    "question": "The train leaves exactly _________ six in the evening",
+    "option1": "on",
+    "option2": "in",
+    "option3": "at",
+    "option4": "from",
+    "answer": "at"
+  },
+  {
+    "id": 109,
+    "question": "She is suffering _________ a bad throat infection",
+    "option1": "by",
+    "option2": "with",
+    "option3": "of",
+    "option4": "from",
+    "answer": "from"
+  },
+  {
+    "id": 110,
+    "question": "Some people eat their food _______ their fingers",
+    "option1": "by",
+    "option2": "with",
+    "option3": "through",
+    "option4": "from",
+    "answer": "with"
+  },
+  {
+    "id": 111,
+    "question": "The burglar got in ________ the window",
+    "option1": "at",
+    "option2": "by",
+    "option3": "through",
+    "option4": "from",
+    "answer": "through"
+  },
+  {
+    "id": 112,
+    "question": "The railway line runs _________ the river and the road",
+    "option1": "among",
+    "option2": "between",
+    "option3": "besides",
+    "option4": "through",
+    "answer": "between"
+  },
+  {
+    "id": 113,
+    "question": "The medicine must be ______ by you",
+    "option1": "take",
+    "option2": "takes",
+    "option3": "taken",
+    "option4": "taking",
+    "answer": "taken"
+  },
+  {
+    "id": 114,
+    "question": "We stayed in Delhi _______ five days",
+    "option1": "in",
+    "option2": "with",
+    "option3": "at",
+    "option4": "for",
+    "answer": "for"
+  },
+  {
+    "id": 115,
+    "question": "He agreed ______ my bussiness proposal",
+    "option1": "for",
+    "option2": "on",
+    "option3": "to",
+    "option4": "at",
+    "answer": "to"
+  },
+  {
+    "id": 116,
+    "question": "All of us are devoted ________ one another",
+    "option1": "of",
+    "option2": "at",
+    "option3": "to",
+    "option4": "with",
+    "answer": "to"
+  },
+  {
+    "id": 117,
+    "question": "_________ is the way to the zoo",
+    "option1": "Which",
+    "option2": "Where",
+    "option3": "When",
+    "option4": "What",
+    "answer": "Which"
+  },
+  {
+    "id": 118,
+    "question": "He ______ reach the station in time to receive them",
+    "option1": "need to",
+    "option2": "ought to",
+    "option3": "should have",
+    "option4": "dare",
+    "answer": "ought to"
+  },
+  {
+    "id": 119,
+    "question": "I ________ type for hours everyday when I was young",
+    "option1": "might",
+    "option2": "may",
+    "option3": "could",
+    "option4": "ought",
+    "answer": "could"
+  },
+  {
+    "id": 120,
+    "question": "During the holidays we _______ play lawn tennis daily",
+    "option1": "have",
+    "option2": "does",
+    "option3": "are",
+    "option4": "used to",
+    "answer": "used to"
+  },
+  {
+    "id": 121,
+    "question": "The children ____________ a good time out in the garden",
+    "option1": "was having",
+    "option2": "are having",
+    "option3": "has had",
+    "option4": "had been",
+    "answer": "are having"
+  },
+  {
+    "id": 122,
+    "question": "The handwriting is legibl",
+    "option1": "",
+    "option2": "",
+    "option3": "",
+    "option4": "",
+    "answer": ""
+  },
+  {
+    "id": 123,
+    "question": "Anyone ________ easily read it",
+    "option1": "can",
+    "option2": "shall",
+    "option3": "must",
+    "option4": "need",
+    "answer": "can"
+  },
+  {
+    "id": 124,
+    "question": "We ______ lose her company, if we are always rude with her",
+    "option1": "might",
+    "option2": "ought",
+    "option3": "need",
+    "option4": "should",
+    "answer": "might"
+  },
+  {
+    "id": 125,
+    "question": "You won't be allowed into the club _________ you wear a suit and tie.",
+    "option1": "neither",
+    "option2": "whether",
+    "option3": "unless",
+    "option4": "apart",
+    "answer": "unless"
+  },
+  {
+    "id": 126,
+    "question": "If I were an actor, I _______ Bollywood films too",
+    "option1": "will sign",
+    "option2": "would have sign",
+    "option3": "would sign",
+    "option4": "will have sign",
+    "answer": "would sign"
+  },
+  {
+    "id": 127,
+    "question": "________ keep calm",
+    "option1": "Somewhere happen",
+    "option2": "Whether happen",
+    "option3": "If happening",
+    "option4": "Whatever happens",
+    "answer": "Whatever happens"
+  },
+  {
+    "id": 128,
+    "question": "She wouldn't have owned such a big company if _______ the challenging contract",
+    "option1": "she not signed",
+    "option2": "she does not sign",
+    "option3": "she had not signed",
+    "option4": "she did not signed",
+    "answer": "she had not signed"
+  },
+  {
+    "id": 129,
+    "question": "________ you like it or not, he will speak the truth",
+    "option1": "Don't",
+    "option2": "Do",
+    "option3": "Whether",
+    "option4": "Also",
+    "answer": "Whether"
+  },
+  {
+    "id": 130,
+    "question": "The thief _________ into the house and took away the money",
+    "option1": "break in",
+    "option2": "broke into",
+    "option3": "break off",
+    "option4": "break away",
+    "answer": "broke into"
+  },
+  {
+    "id": 131,
+    "question": "I cannot _________ my mind whether to stay here or leave the place",
+    "option1": "make up",
+    "option2": "make over",
+    "option3": "make upon",
+    "option4": "make out",
+    "answer": "make up"
+  },
+  {
+    "id": 132,
+    "question": "The police are supposed to __________ the thief as soon as a theft is reported",
+    "option1": "get along",
+    "option2": "go after",
+    "option3": "get on",
+    "option4": "go about",
+    "answer": "go after"
+  },
+  {
+    "id": 133,
+    "question": "The match was ______",
+    "option1": "called out",
+    "option2": "called off",
+    "option3": "called in",
+    "option4": "called across",
+    "answer": "called off"
+  },
+  {
+    "id": 134,
+    "question": "He has __________ a year's work and now needs a holiday",
+    "option1": "put in",
+    "option2": "put off",
+    "option3": "put up",
+    "option4": "put on",
+    "answer": "put in"
+  },
+  {
+    "id": 135,
+    "question": "_________ some employers oppose the very existence of unions, many theorists stress the necessity of unions",
+    "option1": "Because",
+    "option2": "Due to",
+    "option3": "However",
+    "option4": "Although",
+    "answer": "Although"
+  },
+  {
+    "id": 136,
+    "question": "Managers set objectives, and decide _________ their organization can achieve them",
+    "option1": "what",
+    "option2": "how",
+    "option3": "which",
+    "option4": "because",
+    "answer": "how"
+  },
+  {
+    "id": 137,
+    "question": "There is nothing that ______ of us can do to help",
+    "option1": "every",
+    "option2": "much",
+    "option3": "more",
+    "option4": "any",
+    "answer": "any"
+  },
+  {
+    "id": 138,
+    "question": "_______ his money has been stolen",
+    "option1": "Most",
+    "option2": "All",
+    "option3": "Either",
+    "option4": "Much",
+    "answer": "All"
+  },
+  {
+    "id": 139,
+    "question": "There are ______ mistakes in this essay",
+    "option1": "plenty",
+    "option2": "the",
+    "option3": "few",
+    "option4": "a little",
+    "answer": "few"
+  },
+  {
+    "id": 140,
+    "question": "She spent ________ useful hour in the botany garden",
+    "option1": "an",
+    "option2": "a",
+    "option3": "many",
+    "option4": "some",
+    "answer": "a"
+  },
+  {
+    "id": 141,
+    "question": "He is always ______ his temper",
+    "option1": "lost",
+    "option2": "losing",
+    "option3": "had lost",
+    "option4": "has been loosing",
+    "answer": "losing"
+  },
+  {
+    "id": 142,
+    "question": "Did the postman _____ this morning",
+    "option1": "come",
+    "option2": "came",
+    "option3": "had came",
+    "option4": "had been coming",
+    "answer": "come"
+  },
+  {
+    "id": 143,
+    "question": "The train ______ in ten minutes, so hurry",
+    "option1": "has been leaving",
+    "option2": "left",
+    "option3": "was leaving",
+    "option4": "leaves",
+    "answer": "leaves"
+  },
+  {
+    "id": 144,
+    "question": "A bunch of keys ________ lying on the table",
+    "option1": "is",
+    "option2": "are",
+    "option3": "were",
+    "option4": "has",
+    "answer": "is"
+  },
+  {
+    "id": 145,
+    "question": "Neither of the students ________ interested in extra classes",
+    "option1": "were",
+    "option2": "have been",
+    "option3": "are",
+    "option4": "is",
+    "answer": "is"
+  },
+  {
+    "id": 146,
+    "question": "I prefer milk _____ tea for breakfast",
+    "option1": "to",
+    "option2": "for",
+    "option3": "than",
+    "option4": "within",
+    "answer": "to"
+  },
+  {
+    "id": 147,
+    "question": "Why did she __________ your invitation",
+    "option1": "turn out",
+    "option2": "turn off",
+    "option3": "turn down",
+    "option4": "turn into",
+    "answer": "turn down"
+  },
+  {
+    "id": 148,
+    "question": "They have _________ the match until next week",
+    "option1": "put on",
+    "option2": "put out",
+    "option3": "put down",
+    "option4": "put off",
+    "answer": "put off"
+  },
+  {
+    "id": 149,
+    "question": "The cat was ___________ by a bus",
+    "option1": "run through",
+    "option2": "run out",
+    "option3": "run into",
+    "option4": "run over",
+    "answer": "run over"
+  },
+  {
+    "id": 150,
+    "question": "You won't get there in time _______ you hurry",
+    "option1": "whether",
+    "option2": "if",
+    "option3": "whatever",
+    "option4": "unless",
+    "answer": "unless"
+  },
+  {
+    "id": 151,
+    "question": "If I _______ you walking, I could have offered a lift",
+    "option1": "have seen",
+    "option2": "see",
+    "option3": "had seen",
+    "option4": "seen",
+    "answer": "had seen"
+  },
+  {
+    "id": 152,
+    "question": "If I _______ what you wanted, may be I could help you",
+    "option1": "know",
+    "option2": "knows",
+    "option3": "knew",
+    "option4": "have known",
+    "answer": "knew"
+  },
+  {
+    "id": 153,
+    "question": "If he _________ to Delhi, he will have to sell his house in Jaipur",
+    "option1": "moves",
+    "option2": "will move",
+    "option3": "shall move",
+    "option4": "move",
+    "answer": "moves"
+  },
+  {
+    "id": 154,
+    "question": "A number of questions ________ asked",
+    "option1": "was",
+    "option2": "were",
+    "option3": "has been",
+    "option4": "is",
+    "answer": "were"
+  },
+  {
+    "id": 155,
+    "question": "The number of books in the library ________ risen to sixty thousand",
+    "option1": "has",
+    "option2": "is",
+    "option3": "are",
+    "option4": "have",
+    "answer": "has"
+  },
+  {
+    "id": 156,
+    "question": "He walked into the station only to find that the train _________",
+    "option1": "left",
+    "option2": "has left",
+    "option3": "had left",
+    "option4": "will leave",
+    "answer": "had left"
+  },
+  {
+    "id": 157,
+    "question": "Rina was surprised ________ her result",
+    "option1": "to",
+    "option2": "with",
+    "option3": "from",
+    "option4": "at",
+    "answer": "at"
+  },
+  {
+    "id": 158,
+    "question": "Megha is disgusted _____ the habit of her son",
+    "option1": "at",
+    "option2": "to",
+    "option3": "for",
+    "option4": "with",
+    "answer": "at"
+  },
+  {
+    "id": 159,
+    "question": "Mohan's mother was annoyed with him as he could not _____ his examination",
+    "option1": "Get off",
+    "option2": "Get on",
+    "option3": "Get through",
+    "option4": "Get upon",
+    "answer": "Get through"
+  },
+  {
+    "id": 160,
+    "question": "How much longer ________ this book",
+    "option1": "you are needing",
+    "option2": "will you be needing",
+    "option3": "will you have needed",
+    "option4": "have you needed",
+    "answer": "will you be needing"
+  },
+  {
+    "id": 161,
+    "question": "_________ you hear the President's speech",
+    "option1": "Have",
+    "option2": "Has",
+    "option3": "Had",
+    "option4": "Did",
+    "answer": "Did"
+  },
+  {
+    "id": 162,
+    "question": "I _______ to the movies with some friends last night",
+    "option1": "have gone",
+    "option2": "went",
+    "option3": "am gone",
+    "option4": "am going",
+    "answer": "went"
+  },
+  {
+    "id": 163,
+    "question": "The news was ______ good to be true",
+    "option1": "very",
+    "option2": "too",
+    "option3": "so",
+    "option4": "as",
+    "answer": "too"
+  },
+  {
+    "id": 164,
+    "question": "That hardly counts, _________",
+    "option1": "does it?",
+    "option2": "doesn't it?",
+    "option3": "do it?",
+    "option4": "don't it?",
+    "answer": "does it?"
+  },
+  {
+    "id": 165,
+    "question": "There aren't _________ mountains in that part of the country",
+    "option1": "much",
+    "option2": "many",
+    "option3": "more",
+    "option4": "less",
+    "answer": "many"
+  },
+  {
+    "id": 166,
+    "question": "An optimist thinks that all _____ well with the world",
+    "option1": "shall",
+    "option2": "will be",
+    "option3": "is",
+    "option4": "was",
+    "answer": "is"
+  },
+  {
+    "id": 167,
+    "question": "The examination will begin ________ Monday",
+    "option1": "from",
+    "option2": "in",
+    "option3": "at",
+    "option4": "on",
+    "answer": "on"
+  },
+  {
+    "id": 168,
+    "question": "Hurry up ! Everybody ______ for you",
+    "option1": "wait",
+    "option2": "wait's",
+    "option3": "waiting",
+    "option4": "waited",
+    "answer": "waiting"
+  },
+  {
+    "id": 169,
+    "question": "Can we stop walking soon? I ________ to feel tired",
+    "option1": "start",
+    "option2": "starting",
+    "option3": "am starting",
+    "option4": "am started",
+    "answer": "am starting"
+  },
+  {
+    "id": 170,
+    "question": "I can't understand why he ________ so selfish",
+    "option1": "is being",
+    "option2": "will",
+    "option3": "was being",
+    "option4": "being",
+    "answer": "is being"
+  },
+  {
+    "id": 171,
+    "question": "The movie wasn't very good. I ________ enjoy it much",
+    "option1": "do not",
+    "option2": "did not",
+    "option3": "does not",
+    "option4": "am not",
+    "answer": "did not"
+  },
+  {
+    "id": 172,
+    "question": "The earth _________ round the sun",
+    "option1": "go",
+    "option2": "goes",
+    "option3": "going",
+    "option4": "gone",
+    "answer": "goes"
+  },
+  {
+    "id": 173,
+    "question": "Rice ______ grow in USA",
+    "option1": "do not",
+    "option2": "didn't",
+    "option3": "can not",
+    "option4": "doesn't",
+    "answer": "doesn't"
+  },
+  {
+    "id": 174,
+    "question": "The Sun rises ______ the east",
+    "option1": "in",
+    "option2": "from",
+    "option3": "for",
+    "option4": "of",
+    "answer": "in"
+  },
+  {
+    "id": 175,
+    "question": "I was happy to be ________ friends again",
+    "option1": "among",
+    "option2": "between",
+    "option3": "in between",
+    "option4": "amongst",
+    "answer": "among"
+  },
+  {
+    "id": 176,
+    "question": "Do not ______ other' sprivacy.",
+    "option1": "invading",
+    "option2": "invade",
+    "option3": "invaded",
+    "option4": "invasions",
+    "answer": "invade"
+  },
+  {
+    "id": 177,
+    "question": "There is ______ scope of improvement in your performance",
+    "option1": "abounding",
+    "option2": "aboundafit",
+    "option3": "abundance",
+    "option4": "abundant",
+    "answer": "abundant"
+  },
+  {
+    "id": 178,
+    "question": "The child has ______ himself to everybody",
+    "option1": "endeared",
+    "option2": "deared",
+    "option3": "endear",
+    "option4": "undear",
+    "answer": "endeared"
+  },
+  {
+    "id": 179,
+    "question": "This agreement will _______ the ties between the two countries",
+    "option1": "strength",
+    "option2": "enstrong",
+    "option3": "strengthen",
+    "option4": "strengthify",
+    "answer": "strengthen"
+  },
+  {
+    "id": 180,
+    "question": "It is easy to ______ but difficult to practice.",
+    "option1": "sermonize",
+    "option2": "sermonized",
+    "option3": "sermoned",
+    "option4": "sermonizing",
+    "answer": "sermonize"
+  },
+  {
+    "id": 181,
+    "question": "The girl was full of ________ for the generosity she was shown.",
+    "option1": "admirating",
+    "option2": "admirability",
+    "option3": "admiration",
+    "option4": "admires",
+    "answer": "admiration"
+  },
+  {
+    "id": 182,
+    "question": "The decision was ______ owing to no consensus among the members.",
+    "option1": "put by",
+    "option2": "put off",
+    "option3": "put up",
+    "option4": "put through",
+    "answer": "put off"
+  },
+  {
+    "id": 183,
+    "question": "The manager ______ publicly for his actions.",
+    "option1": "apologize",
+    "option2": "apologized",
+    "option3": "apologetic",
+    "option4": "apologising",
+    "answer": "apologized"
+  },
+  {
+    "id": 184,
+    "question": "The bank _____ my application to expedite a home loan.",
+    "option1": "turned down",
+    "option2": "turned into",
+    "option3": "turned by",
+    "option4": "turned off",
+    "answer": "turned down"
+  },
+  {
+    "id": 185,
+    "question": "He has firm _____ in himself.",
+    "option1": "belief",
+    "option2": "believes",
+    "option3": "beliefs",
+    "option4": "believe",
+    "answer": "belief"
+  },
+  {
+    "id": 186,
+    "question": "She is _____ for her actions on moral grounds",
+    "option1": "justiced",
+    "option2": "justify",
+    "option3": "justified",
+    "option4": "justivefied",
+    "answer": "justified"
+  },
+  {
+    "id": 187,
+    "question": "I am surprised how he _____ this book.",
+    "option1": "come to",
+    "option2": "came by",
+    "option3": "come through",
+    "option4": "come off",
+    "answer": "came by"
+  },
+  {
+    "id": 188,
+    "question": "She ____ nothing from me.",
+    "option1": "keeps away",
+    "option2": "keeps for",
+    "option3": "keeps over",
+    "option4": "keeps back",
+    "answer": "keeps back"
+  }
+]
